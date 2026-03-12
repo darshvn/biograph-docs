@@ -1,0 +1,27 @@
+- **Getting Started**
+  - [Overview](overview.md)
+  - [Architecture](architecture.md)
+  - [Glossary](glossary.md)
+
+- **User Flows**
+  - [Flow Index](user-flows/index.md)
+  - [Patient Registration](user-flows/patient-registration.md)
+  - [Appointment Booking (Desk)](user-flows/appointment-booking-desk.md)
+  - [Appointment Booking (Portal)](user-flows/appointment-booking-portal.md)
+  - [Recurring Appointments](user-flows/recurring-appointments.md)
+  - [Patient Encounter](user-flows/patient-encounter.md)
+  - [Lab Test Workflow](user-flows/lab-test-workflow.md)
+  - [Clinical Procedure](user-flows/clinical-procedure.md)
+  - [Inpatient Admission](user-flows/inpatient-admission.md)
+  - [Inpatient Medication](user-flows/inpatient-medication.md)
+  - [Therapy & Rehab](user-flows/therapy-rehabilitation.md)
+  - [Billing & Invoicing](user-flows/billing-invoicing.md)
+  - [Insurance Claims](user-flows/insurance-claims.md)
+  - [Portal Diagnostics](user-flows/patient-portal-diagnostics.md)
+
+- **Reference**
+  - [API Reference](api-reference.md)
+  - [Data Models](data-models.md)
+  - [Frontend Map](frontend-map.md)
+  - [Commands](commands.md)
+  - [Environment & Config](env-vars.md)
