@@ -9,7 +9,12 @@
   - [Appointment Booking (Desk)](user-flows/appointment-booking-desk.md)
   - [Appointment Booking (Portal)](user-flows/appointment-booking-portal.md)
   - [Recurring Appointments](user-flows/recurring-appointments.md)
+  - [Appointment Unavailability](user-flows/appointment-unavailability.md)
+  - [Block & Slot Booking](user-flows/block-slot-booking.md)
   - [Patient Encounter](user-flows/patient-encounter.md)
+  - [Patient History Sync](user-flows/patient-history-sync.md)
+  - [Patient Duplicate Checking](user-flows/patient-duplicate-checking.md)
+  - [Patient Referral](user-flows/patient-referral.md)
   - [Lab Test Workflow](user-flows/lab-test-workflow.md)
   - [Clinical Procedure](user-flows/clinical-procedure.md)
   - [Inpatient Admission](user-flows/inpatient-admission.md)
@@ -18,6 +23,15 @@
   - [Billing & Invoicing](user-flows/billing-invoicing.md)
   - [Insurance Claims](user-flows/insurance-claims.md)
   - [Portal Diagnostics](user-flows/patient-portal-diagnostics.md)
+
+- **Admin Masters**
+  - [Setup Overview](admin-masters/index.md)
+  - [Practitioner & Schedule](admin-masters/practitioner-setup.md)
+  - [Healthcare Settings](admin-masters/healthcare-settings.md)
+  - [Duplicate Checker Setup](admin-masters/duplicate-checker-setup.md)
+  - [Service Unit Setup](admin-masters/service-unit-setup.md)
+  - [Appointment Type Setup](admin-masters/appointment-type-setup.md)
+  - [Medical Codes & Masters](admin-masters/medical-codes-masters.md)
 
 - **Reference**
   - [API Reference](api-reference.md)
