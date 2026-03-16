@@ -32,6 +32,7 @@
   - [Service Unit Setup](admin-masters/service-unit-setup.md)
   - [Appointment Type Setup](admin-masters/appointment-type-setup.md)
   - [Medical Codes & Masters](admin-masters/medical-codes-masters.md)
+  - [Insurance Module (E2E)](admin-masters/insurance-setup.md)
 
 - **Reference**
   - [API Reference](api-reference.md)
